@@ -1,20 +1,41 @@
-"Title of the Epic"
+Title of the Epic: Develop a Football Training Curriculum for Children
 
-Description: [A brief description of the epic]
+Description: Develop a comprehensive football training curriculum for children that is fun, engaging, and covers all the essential skills and knowledge required to play football.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals:
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+Create an age-appropriate and challenging curriculum
+Cover all necessary skills and knowledge
+Ensure the curriculum is engaging for children
+User Stories:
 
-Dependencies: [List any dependencies that may impact the epic]
+Coach: Wants an easy to follow curriculum
+Parent: Wants age-appropriate and challenging curriculum
+Child: Wants a fun and engaging curriculum
+Dependencies:
 
-Risks: [List the potential risks and mitigation strategies]
+Input from qualified coaches
+Research on best practices for teaching football to children
+Risks:
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Curriculum may not be engaging enough
+Curriculum may not cover all necessary skills and knowledge
+Mitigation strategies:
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Involve children in development process
+Conduct regular reviews and assessments of the curriculum
+Estimated Effort: 6-8 weeks
 
-Priority: [Assign a priority to the epic]
+Business Value: The Youth Football Training Program will provide high-quality training, resulting in better player development and increased participation.
+
+Priority: High
+
+List stories related to this theme:
+
+Develop list of essential football skills and knowledge for children
+Identify age-appropriate drills and exercises for each skill
+Create lesson plans for each training session
+Conduct regular reviews and assessments of the curriculum.
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
