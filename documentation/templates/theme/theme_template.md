@@ -1,6 +1,18 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
+# Webclass Title: How To Play Football
 
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
+**Project Objectives:** To teach people how to properly play the sport of Footbal with proper skill, rule, and safety.
+
+**Project Outcomes:** By the end of this webclass, participants will have a basic understanding of the game and the skills necessary to play football confidently and competently.
+
+**Project Deliverables:** 
+* Basic football rules and terminology.
+* Proper technique for passing, catching, and running with the ball.
+* Defensive positioning and tackling techniques.
+* Understanding offensive and defensive strategies.
+* Importance of teamwork and communication.
+
+**Long-Term Benefits:** 
+A foundation for participants to continue learning and growing their skills as football players.
 
 
 # List initiatives related to this theme
