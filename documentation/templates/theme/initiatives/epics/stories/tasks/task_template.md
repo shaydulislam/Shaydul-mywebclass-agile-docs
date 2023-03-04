@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Identify Essential Football Skills for Children
 
-User Story: [Reference the user story that this task supports]
+User Story: As a part of developing the football training curriculum for children, the coach wants to identify the essential football skills that need to be covered.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Research and identify the key football skills that children need to learn at each age group, from basic to advanced levels. Ensure that the skills identified are relevant to children's physical and cognitive development, and can be taught effectively using age-appropriate drills and exercises. Acceptance criteria include a list of essential skills for each age group, along with a brief explanation of why they are important and how they will be taught. This task requires research on child development and best practices for teaching football to children.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 4 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: John, the lead coach
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not started
 
-Notes: [Include]
+Notes: It is important to involve other coaches and players in identifying the essential skills to ensure that the curriculum covers all necessary skills and is effective in teaching them. The research on child development and best practices for teaching football to children should be reviewed and approved by the head coach.
