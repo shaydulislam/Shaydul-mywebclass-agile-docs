@@ -14,6 +14,9 @@
 **Long-Term Benefits:** 
 A foundation for participants to continue learning and growing their skills as football players.
 
+#contact information
+* Phone number: 973-123-4567
+* Email: si263@njit.edu
 
 # List initiatives related to this theme
 1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
