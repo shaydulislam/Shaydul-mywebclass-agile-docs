@@ -1,4 +1,4 @@
-# How To Play Football
+# How To Play Football:Basics
 
 **Project Objectives:** To teach people how to properly play the sport of Footbal with proper skill, rule, and safety.
 
