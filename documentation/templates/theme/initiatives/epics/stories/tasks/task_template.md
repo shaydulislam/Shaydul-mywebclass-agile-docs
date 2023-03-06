@@ -14,4 +14,6 @@ Status: Not started
 
 Milestone: Monitor and evaluate the success of the webclass
 
+Assumption: Participants have access to a computer and an internet connection to access the web-class materials and resources.
+
 Notes: It is important to involve other coaches and players in identifying the essential skills to ensure that the curriculum covers all necessary skills and is effective in teaching them. The research on child development and best practices for teaching football to children should be reviewed and approved by the head coach.
